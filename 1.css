@@ -68,9 +68,7 @@ body {
 
 }
 
-.model__closed:hover {
-    color: red;
-}
+
 
 .modal__title {
     text-align: center;
